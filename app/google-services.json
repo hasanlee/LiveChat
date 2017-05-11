@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568976266614",
+    "firebase_url": "https://live-chat-ae72b.firebaseio.com",
+    "project_id": "live-chat-ae72b",
+    "storage_bucket": "live-chat-ae72b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568976266614:android:82e53f0f03af365a",
+        "android_client_info": {
+          "package_name": "com.hasanli.livechat.livechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568976266614-bnv01tf1rk3rogu3nomd1ne0s3ef4uqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasanli.livechat.livechat",
+            "certificate_hash": "2387a997af145b643f5672de170ac894d7a0119d"
+          }
+        },
+        {
+          "client_id": "568976266614-2r06hg2ploqb1s2643uakr9n8q6pr5ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDG56kUarp9G3OTvg9rzF3Sko-x9CUeAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568976266614-2r06hg2ploqb1s2643uakr9n8q6pr5ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

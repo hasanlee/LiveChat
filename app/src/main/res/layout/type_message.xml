@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#ffffff"
+        android:src="@drawable/ic_images"
+        android:focusable="true"
+        android:contentDescription="img"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:textColorHint="#CFD8DC"
+        android:textColor="@color/colorPrimary"
+        android:hint="@string/message_input_txt" />
+
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:padding="4dp"
+        android:background="#ffffff"
+        android:src="@drawable/ic_paper_plane_o"
+        android:focusable="true"
+        android:contentDescription="img"/>
+</LinearLayout>
